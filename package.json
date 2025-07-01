@@ -4,6 +4,14 @@
   "description": "Typescript mcp test project to fetch Binance prices",
   "main": "dist/binance_ts_mcp.js",
   "bin": "dist/binance_ts_mcp.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantrathi8579/prashant_ts_binance_mcp_test"
+  },
+  "keywords": [
+    "mcp",
+    "modelcontextprotocol"
+  ],
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
