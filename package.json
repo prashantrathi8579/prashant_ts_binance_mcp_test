@@ -1,6 +1,6 @@
 {
   "name": "prashant_ts_binance_mcp_test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Typescript mcp test project to fetch Binance prices",
   "main": "dist/binance_ts_mcp.js",
   "bin": "dist/binance_ts_mcp.js",
